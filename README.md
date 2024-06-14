@@ -23,3 +23,7 @@ pnpm dev
 - Go to localhost:3000
 - First load is slow and that's ok
 - Change `page.js` -> wait
+
+---
+
+Related issue: https://github.com/vercel/next.js/issues/48748
